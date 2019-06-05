@@ -1,0 +1,15 @@
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\UngDung.exe.config
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\UngDung.exe
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\UngDung.pdb
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\MetroFramework.Design.dll
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\MetroFramework.dll
+D:\Lap Trinh WinForm\UngDung\UngDung\bin\Debug\MetroFramework.Fonts.dll
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.csprojAssemblyReference.cache
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.Properties.Resources.resources
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.csproj.GenerateResource.cache
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.csproj.CoreCompileInputs.cache
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.csproj.CopyComplete
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.exe
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.pdb
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.Form1.resources
+D:\Lap Trinh WinForm\UngDung\UngDung\obj\Debug\UngDung.MaillHangLoat.resources
